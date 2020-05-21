@@ -1,4 +1,15 @@
-# Apache Camel K Basic Solution Pattern
+= Apache Camel K Basic Solution Pattern
+
+Project: https://camel.apache.org/camel-k/latest/index.html
+
+Status: In development
+
+Requirements:
+
+* Currently requires cluster-admin access to install operator
+
+
+Notes:
 
 Covers bean creation, processor and easiest EIP
 
