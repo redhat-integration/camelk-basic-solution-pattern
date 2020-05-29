@@ -1,3 +1,5 @@
+ABANDONING THIS REPO IN FAVOR OF https://github.com/redhat-integration/camel-k-solution-patterns
+
 = Apache Camel K Basic Solution Pattern
 
 Project: https://camel.apache.org/camel-k/latest/index.html
